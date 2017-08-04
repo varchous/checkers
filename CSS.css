@@ -1,0 +1,35 @@
+table {position:absolute;
+  border:3px solid black;
+    top:15%;
+    left:35%;
+    border-spacing:0px;
+     }    
+.cl1
+{text-align:center;
+  height:70px;
+  width:70px;  
+  background-color:#730A0A;
+  border:2px solid #730A0A;
+} 
+.cl2
+{text-align:center;
+  height:70px;
+  width:70px;  
+  background-color:#FFF;
+  border:2px solid #FFF;
+}
+.cl3
+{
+  text-align:center;
+  height:70px;
+  width:70px;  
+  background-color:#730A0A;
+  border:2px solid #00EBF7;
+}
+.cl4
+{
+text-align:center;
+  height:70px;
+  width:70px;  
+  background-color:#FFF;
+}     
